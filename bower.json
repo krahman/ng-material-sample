@@ -20,6 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular-material": "~0.6.1"
+    "angular-material": "~0.6.1",
+    "material-design-icons": "~1.0.1"
   }
 }
