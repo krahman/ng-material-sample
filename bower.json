@@ -1,0 +1,25 @@
+{
+  "name": "angular-material-sample",
+  "version": "0.0.1",
+  "homepage": "https://github.com/krahman/ng-material-sample",
+  "authors": [
+    "khal <khal.rahman@gmail.com>"
+  ],
+  "description": "angular material packages",
+  "keywords": [
+    "angular",
+    "material"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~0.6.1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "angular-material-sample",
+  "version": "0.0.1",
+  "description": "sample project on angular material",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krahman/ng-material-sample.git"
+  },
+  "keywords": [
+    "angular",
+    "material"
+  ],
+  "author": "khal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krahman/ng-material-sample/issues"
+  },
+  "homepage": "https://github.com/krahman/ng-material-sample",
+  "dependencies": {
+    "bower": "^1.3.12"
+  }
+}
